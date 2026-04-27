@@ -1,9 +1,17 @@
 MachineLearning
 ====================
 
-
-
 一些常见的机器学习算法的实现代码，本人学习过程中做的总结，资历尚浅，如有错误请不吝指出。
+
+## Installation
+
+Install all required dependencies before running any code:
+
+```bash
+pip install -r requirements.txt
+```
+
+> **Note:** If you encounter `ModuleNotFoundError: No module named 'sklearn'`, run the above command. `sklearn` is part of the `scikit-learn` package.
 
 
 ## 目录介绍
